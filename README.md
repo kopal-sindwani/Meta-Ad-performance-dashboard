@@ -15,7 +15,7 @@ At the top of the dashboard, the ads generated 216K impressions and 25.4K clicks
 1) Looking at demographics, females (43%) engage more than males (22%), and the 18–30 age group drives the majority of interactions. This shows the core audience is young females.
 2) From a geographic perspective, India and Brazil are the biggest engagement markets, while Germany and the UK likely represent higher-value audiences with stronger purchasing power. So, campaigns should be tailored differently for high-volume vs. highvalue regions.
 
-#Time & Seasonality 
+# Time & Seasonality 
 
 The dashboard shows consistent weekly engagement, but hourly trends peak in the afternoon and evening hours.
 The calendar highlights certain days (19th–21st, 25th–27th) with spikes in engagement, which could be linked to promotions or campaign launches. 
