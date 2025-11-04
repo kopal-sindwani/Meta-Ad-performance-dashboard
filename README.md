@@ -36,4 +36,4 @@ When we compare formats, Video ads perform best, with the highest CTR, conversio
 
 # Screenshot
 
-https://github.com/kopal-sindwani/Meta-Ad-performance-dashboard/blob/main/meta%20ad%20project%20img.png
+![Alt text](https://github.com/kopal-sindwani/Meta-Ad-performance-dashboard/blob/main/meta%20ad%20project%20img.png)
