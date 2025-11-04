@@ -31,3 +31,7 @@ When we compare formats, Video ads perform best, with the highest CTR, conversio
 3. Best formats = Video and Stories → increase spend here. 
 4. Best times = afternoons & evenings → schedule ads accordingly. 
 5. Geography → volume from India/Brazil, value from Germany/UK → segment strategies.
+
+# Screenshot
+
+https://github.com/kopal-sindwani/Meta-Ad-performance-dashboard/blob/main/meta%20ad%20project%20img.png
